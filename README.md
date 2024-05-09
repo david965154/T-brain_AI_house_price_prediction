@@ -32,7 +32,7 @@
 
 ![image](https://github.com/david965154/T-brain_AI_house_price_prediction/assets/145984683/18ee402f-14f2-40cb-b180-52854f0a73fa)
 
-事實上，可以透過看到 XGB 的表現較佳，在評估方式 MAPE (Mean Absolute Percentage Error) 下
+事實上，可以透過看到 XGB 的表現較佳，但在 MLP 作用下可以更收斂於斜率為 1 的直線，在評估方式 MAPE (Mean Absolute Percentage Error) 下
 
 ![image](https://github.com/david965154/T-brain_AI_house_price_prediction/assets/145984683/c41bed7a-35a9-4af0-a0ce-ecadc28b0d5b)
 
